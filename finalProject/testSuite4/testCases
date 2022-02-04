@@ -1,0 +1,7 @@
+Check sorting functionality
+
+1. verify when you choose sorting option for price - high to low, the first item displayed is
+the most expensive one
+2. verify when you choose sorting option for name - A to Z,
+the first item displayed is not "Test.allTheThings() T-Shirt (Red)"
+3.

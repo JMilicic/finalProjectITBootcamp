@@ -1,0 +1,6 @@
+Check checkout functionality
+
+1. verify that when all the input is correct, checkout is completed successfully and the
+right message is displayed for placing order
+2. Verify that the right alert message is displayed when tried to complete checkout without
+zipCode entered

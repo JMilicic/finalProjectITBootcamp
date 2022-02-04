@@ -1,0 +1,6 @@
+Check side menu functionality
+
+1. verify all 4 items are displayed when side menu is clicked
+2. verify when clicked on log out button, you are successfully logged out
+3. verify when clicked on about button, you are navigated to https://saucelabs.com/
+4. verify after opening the side menu, if you click on x (close) button, side menu is collapsed

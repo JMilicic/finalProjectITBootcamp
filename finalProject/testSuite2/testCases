@@ -1,0 +1,5 @@
+Check add to cart functionality
+
+1. verify that when 1 item is selected and added to cart, that one item is present in the cart
+2. verify that when 3 different items are added to cart, those 3 items are present in the cart
+3. verify that when there is no items added to the cart, nothing is present in the cart
