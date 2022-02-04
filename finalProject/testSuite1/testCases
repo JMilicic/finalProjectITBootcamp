@@ -1,6 +1,0 @@
-Check login functionality
-
-1. verify user is successfully logged in with correct data, username: standard_user, pass: secret_sauce
-2. verify user gets an alert message when trying to log in with incorrect data
-3. verify you get an alert message when trying to login with locked out user
-
