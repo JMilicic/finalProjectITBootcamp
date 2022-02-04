@@ -1,5 +1,0 @@
-Check remove from the cart functionality
-
-1. verify that when 1 item is in the cart when you want to remove it, it's done successfully
-2. verify that when there are 2 items in the cart, if you remove 1, the correct one is left
-3. verify that when there is no items in the cart, remove button is not displayed
